@@ -1,0 +1,25 @@
+footer
+{
+  color: white;
+  height: 60px;
+  width: 100%;
+  border-top: 1px solid #CCCCCC;
+  position: fixed;
+  bottom: 0;
+}
+
+.footer-content
+{
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer .footer-content p
+{
+  margin: 0;
+  color:black;
+  font-size: 18px;
+  text-align: center;
+}

@@ -84,7 +84,7 @@
   width: 220px;
 }
 
-.filters .test:hover .locations .popover {
+.filters .test .locations:hover .popover {
   display: block;
 }
 
